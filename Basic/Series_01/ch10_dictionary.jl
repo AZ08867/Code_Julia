@@ -1,5 +1,8 @@
 # dictionary
 
+# :age and :egg_dog are symbols, it is a special data type
+# age and egg_dog are strings.using the symbol do not have occupy memory
+
 # construct dictionary
 dog = Dict("name" => "Rover", :age => 3, 27 => "Labrador")
 
